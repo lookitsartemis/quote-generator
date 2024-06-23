@@ -1,0 +1,36 @@
+/* styles/styleindex.css */
+
+body {
+  color: white;
+  background-color: rgb(78, 78, 78);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div .quotes {
+  text-align: center;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+  color: #333;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 45px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #42d67b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #35a760;
+}
