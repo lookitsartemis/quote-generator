@@ -1,2 +1,3 @@
-# quote-generator
-A quote generator :D
+# Quote Generator
+
+A quote generator :D - Info coming soon...
